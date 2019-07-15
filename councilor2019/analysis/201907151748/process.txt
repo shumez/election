@@ -1,0 +1,1 @@
+{"readdata": [{"dat": "https://raw.githubusercontent.com/shumez/election/master/councilor2019/data/data2019.csv", "dat_shitsumon": "https://raw.githubusercontent.com/shumez/election/master/councilor2019/data/shitsumon.csv"}], "dropna": [{"thresh": 15}], "imputation": [{"strategy": "mean"}], "scaling": [{"scaler": "StandardScaler"}], "pca": [{"n_components": 3}]}
